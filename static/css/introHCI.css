@@ -12,7 +12,7 @@
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
-     border: 1px dotted gray;
+     border: 2px dotted gray;
      padding: 20px;
 }
 
@@ -31,4 +31,10 @@ body {
      right: 0;
      position: absolute;
      z-index: -1;	
+}
+
+
+
+p {
+     font-variant: small-caps;
 }
